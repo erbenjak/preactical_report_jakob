@@ -1,48 +1,48 @@
-This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
-Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: main.aux
 The style file: plainnat.bst
-I found no \citation commands---while reading file main.aux
-Database file #1: references.bib.bib
-You've used 0 entries,
+Database file #1: references.bib
+Warning--empty journal in predari2021mpi
+You've used 13 entries,
             2773 wiz_defined-function locations,
-            624 strings with 5577 characters,
-and the built_in function-call counts, 33 in all, are:
-= -- 0
-> -- 0
-< -- 0
-+ -- 0
-- -- 0
-* -- 2
-:= -- 10
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
-chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 1
-format.name$ -- 0
-if$ -- 1
+            707 strings with 7833 characters,
+and the built_in function-call counts, 6715 in all, are:
+= -- 621
+> -- 361
+< -- 15
++ -- 121
+- -- 108
+* -- 505
+:= -- 989
+add.period$ -- 43
+call.type$ -- 13
+change.case$ -- 73
+chr.to.int$ -- 13
+cite$ -- 27
+duplicate$ -- 327
+empty$ -- 549
+format.name$ -- 135
+if$ -- 1457
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 0
-newline$ -- 8
-num.names$ -- 0
-pop$ -- 0
+missing$ -- 15
+newline$ -- 73
+num.names$ -- 52
+pop$ -- 161
 preamble$ -- 1
-purify$ -- 0
+purify$ -- 62
 quote$ -- 0
-skip$ -- 1
+skip$ -- 265
 stack$ -- 0
-substring$ -- 0
-swap$ -- 0
-text.length$ -- 0
+substring$ -- 281
+swap$ -- 64
+text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 0
-warning$ -- 0
-while$ -- 0
+type$ -- 133
+warning$ -- 1
+while$ -- 64
 width$ -- 0
-write$ -- 7
-(There was 1 error message)
+write$ -- 177
+(There was 1 warning)

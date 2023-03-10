@@ -1,8 +1,88 @@
-\begin{thebibliography}{0}
+\begin{thebibliography}{13}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bader et~al.(2014)Bader, Meyerhenke, Sanders, Schulz, Kappes, and
+  Wagner]{benchmarksfornetworksanalysis}
+D.~A. Bader, H.~Meyerhenke, P.~Sanders, C.~Schulz, A.~Kappes, and D.~Wagner.
+\newblock Benchmarking for graph clustering and partitioning.
+\newblock In \emph{Encyclopedia of Social Network Analysis and Mining}, pages
+  73--82. Springer, 2014.
+
+\bibitem[Berti and Tr{\"a}ff(2006)]{berti2006mpi}
+Guntram Berti and Jesper~Larsson Tr{\"a}ff.
+\newblock What mpi could (and cannot) do for mesh-partitioning on
+  non-homogeneous networks.
+\newblock In \emph{Recent Advances in Parallel Virtual Machine and Message
+  Passing Interface: 13th European PVM/MPI User's Group Meeting Bonn, Germany,
+  September 17-20, 2006 Proceedings 13}, pages 293--302. Springer, 2006.
+
+\bibitem[Bichot and Siarry(2013)]{bichot2013graph}
+Charles-Edmond Bichot and Patrick Siarry.
+\newblock \emph{Graph partitioning}.
+\newblock John Wiley \& Sons, 2013.
+
+\bibitem[Bulu{\c{c}} et~al.(2016)Bulu{\c{c}}, Meyerhenke, Safro, Sanders, and
+  Schulz]{bulucc2016recent}
+Ayd{\i}n Bulu{\c{c}}, Henning Meyerhenke, Ilya Safro, Peter Sanders, and
+  Christian Schulz.
+\newblock \emph{Recent advances in graph partitioning}.
+\newblock Springer, 2016.
+
+\bibitem[Cherkassky and Goldberg(1997)]{cherkassky1997implementing}
+Boris~V Cherkassky and Andrew~V Goldberg.
+\newblock On implementing the push—relabel method for the maximum flow
+  problem.
+\newblock \emph{Algorithmica}, 19:\penalty0 390--410, 1997.
+
+\bibitem[Delling et~al.(2009)Delling, Sanders, Schultes, and Wagner]{DSSW09}
+D.~Delling, P.~Sanders, D.~Schultes, and D.~Wagner.
+\newblock Engineering route planning algorithms.
+\newblock In \emph{Algorithmics of Large and Complex Networks}, volume 5515 of
+  \emph{LNCS State-of-the-Art Survey}, pages 117--139. Springer, 2009.
+
+\bibitem[Diestel and Diestel(2017)]{diestel2017flows}
+Reinhard Diestel and Reinhard Diestel.
+\newblock Flows in networks.
+\newblock \emph{Graph theory}, pages 149--154, 2017.
+
+\bibitem[Goldberg and Tarjan(1988)]{goldberg1988new}
+Andrew~V Goldberg and Robert~E Tarjan.
+\newblock A new approach to the maximum-flow problem.
+\newblock \emph{Journal of the ACM (JACM)}, 35\penalty0 (4):\penalty0 921--940,
+  1988.
+
+\bibitem[Kirchbach et~al.(2020)Kirchbach, Schulz, and
+  Tr{\"a}ff]{kirchbach2020better}
+Konrad~Von Kirchbach, Christian Schulz, and Jesper~Larsson Tr{\"a}ff.
+\newblock Better process mapping and sparse quadratic assignment.
+\newblock \emph{Journal of Experimental Algorithmics (JEA)}, 25:\penalty0
+  1--19, 2020.
+
+\bibitem[M.~Faraj(2020)]{Far20}
+H.~Meyerhenke et~al. M.~Faraj, A. van der~Grinten.
+\newblock High-quality hierarchical process mapping.
+\newblock \emph{CoRR}, 2020.
+
+\bibitem[Maria~Predari and Meyerhenke(2021)]{predari2021mpi}
+Christian~Schulz Maria~Predari, Charilaos~Tzovas and Henning Meyerhenke.
+\newblock An mpi-based algorithm for mapping complex networks onto hierarchical
+  architectures.
+\newblock pages 167--182, 2021.
+
+\bibitem[Schulz and Strash(2018)]{schulz2018graph}
+Christian Schulz and Darren Strash.
+\newblock Graph partitioning: Formulations and applications to big data.
+\newblock In \emph{Encyclopedia of Big Data Technologies}, pages 1--7.
+  Springer, Cham, 2018.
+
+\bibitem[Soper et~al.(2004)Soper, Walshaw, and Cross]{soper2004combined}
+A.~J. Soper, C.~Walshaw, and M.~Cross.
+\newblock {A Combined Evolutionary Search and Multilevel Optimisation Approach
+  to Graph-Partitioning}.
+\newblock \emph{Global Optimization}, 29\penalty0 (2):\penalty0 225--241, 2004.
 
 \end{thebibliography}

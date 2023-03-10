@@ -1,0 +1,2 @@
+{"rule":"POSSESSIVE_APOSTROPHE","sentence":"^\\QWe call these edges communication correction edges drain (CCD) and communication correction edges drain (CCS).\\E$"}
+{"rule":"DOUBLE_PUNCTUATION","sentence":"^\\QLet us denote the blocks with \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q,,\\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q.\\E$"}
